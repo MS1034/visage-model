@@ -1,0 +1,6 @@
+True Positive: 85
+True Negative: 6    
+False Positive: 4
+False Negative: 14
+Total: 109
+Images: 57
